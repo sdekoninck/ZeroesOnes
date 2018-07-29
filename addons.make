@@ -1,4 +1,1 @@
-ofxAndroid
-ofxAccelerometer
 ofxOpenCv
-ofxOpticalFlowFarneback
